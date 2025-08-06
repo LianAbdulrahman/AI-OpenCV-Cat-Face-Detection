@@ -59,7 +59,7 @@ python cat_face_detector.py
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 cat-face-detector/
